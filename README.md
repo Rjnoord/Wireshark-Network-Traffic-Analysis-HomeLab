@@ -36,7 +36,7 @@ This project reflects real-world SOC and cybersecurity analyst workflows rather 
 ![Live Packet Capture](screenshots/01_live_packet_capture.png)
 
 #### DNS Traffic Filter
-![DNS Filter](screenshots/02_dns_filter.png)
+![DNS Filter](screenshots/)
 
 #### TLS Encrypted Traffic
 ![TLS Filter](screenshots/03_tls_filter.png)
