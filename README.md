@@ -33,7 +33,7 @@ This project reflects real-world SOC and cybersecurity analyst workflows rather 
 ### 📸 Screenshots
 
 #### Live Packet Capture
-![Live Packet Capture](screenshots/01_live_packet_capture.png)
+![Live Packet Capture](/01_live_packet_capture.png)
 
 #### DNS Traffic Filter
 ![DNS Filter](screenshots/02_dns_filter.png)
